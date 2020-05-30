@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="FinalProject:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="eaf491e0-a811-47d3-9e76-0977e0b9f6da" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1a78Y2arasNzChdpyhrqSy6kEcz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Application.ThreadedGuiForPhysicsEngine (2)">
+    <configuration name="ThreadedGuiForPhysicsEngine (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FinalProject_JBox2DWrapper.ThreadedGuiForPhysicsEngine" />
+      <module name="FinalProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FinalProject_JBox2DWrapper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadedGuiForPhysicsEngine (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FinalProject_SourceFiles.ThreadedGuiForPhysicsEngine" />
+      <module name="FinalProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FinalProject_SourceFiles.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadedGuiForPhysicsEngine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pbgLecture5lab_wrapperForJBox2D.ThreadedGuiForPhysicsEngine" />
+      <module name="FinalProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pbgLecture5lab_wrapperForJBox2D.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ThreadedGuiForPhysicsEngine (2)" />
+        <item itemvalue="Application.ThreadedGuiForPhysicsEngine (1)" />
+        <item itemvalue="Application.ThreadedGuiForPhysicsEngine" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eaf491e0-a811-47d3-9e76-0977e0b9f6da" name="Default Changelist" comment="" />
+      <created>1586075315847</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586075315847</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="617" y="306" width="656" height="517" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1586079857293">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state x="617" y="306" width="656" height="517" key="#com.intellij.ide.util.TreeClassChooserDialog/0.34.1920.1046@0.34.1920.1046" timestamp="1586079857293" />
+    <state x="627" y="247" width="655" height="626" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1586077036948">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state x="627" y="247" width="655" height="626" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.34.1920.1046@0.34.1920.1046" timestamp="1586077036948" />
+    <state width="1864" height="260" key="GridCell.Tab.0.bottom" timestamp="1586087866602">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state width="1864" height="260" key="GridCell.Tab.0.bottom/0.34.1920.1046@0.34.1920.1046" timestamp="1586087866602" />
+    <state width="1864" height="260" key="GridCell.Tab.0.center" timestamp="1586087866601">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state width="1864" height="260" key="GridCell.Tab.0.center/0.34.1920.1046@0.34.1920.1046" timestamp="1586087866601" />
+    <state width="1864" height="260" key="GridCell.Tab.0.left" timestamp="1586087866601">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state width="1864" height="260" key="GridCell.Tab.0.left/0.34.1920.1046@0.34.1920.1046" timestamp="1586087866601" />
+    <state width="1864" height="260" key="GridCell.Tab.0.right" timestamp="1586087866602">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state width="1864" height="260" key="GridCell.Tab.0.right/0.34.1920.1046@0.34.1920.1046" timestamp="1586087866602" />
+    <state x="315" y="34" width="1280" height="1046" key="SettingsEditor" timestamp="1586079863220">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state x="315" y="34" width="1280" height="1046" key="SettingsEditor/0.34.1920.1046@0.34.1920.1046" timestamp="1586079863220" />
+    <state x="540" y="346" key="com.intellij.ide.util.TipDialog" timestamp="1586087685601">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state x="540" y="346" key="com.intellij.ide.util.TipDialog/0.34.1920.1046@0.34.1920.1046" timestamp="1586087685601" />
+  </component>
+</project>
